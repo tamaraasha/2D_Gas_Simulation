@@ -1,6 +1,6 @@
 # thermo_simulation
 
-Monatomic Gas Simulation - Tamara Anand
+Monatomic Gas Simulation - Tamara Anand 2019
 
 This simulation consists of 2 modules each corresponding to a class.
 
